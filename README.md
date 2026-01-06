@@ -134,4 +134,4 @@ Scalability: The template-based design allows reuse with new datasets easily
 
 6. Screenshots / Demos
 
-📸 Dashboard preview screenshot- https://github.com/Madiha546/Ecommerce-dashboard/blob/main/Snapshot%20of%20ecommerce%20dashboard.png
+📸 Dashboard preview screenshot-![Dashboard Preview](https://github.com/Madiha546/Ecommerce-dashboard/blob/main/Snapshot%20of%20ecommerce%20dashboard.png)
