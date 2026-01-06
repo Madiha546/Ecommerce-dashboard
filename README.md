@@ -1,17 +1,13 @@
 🛒 E-commerce Analytics Dashboard
-Recommended Structure and Order
-1. Project Title / Headline
 
 🛍️ E-Commerce Pulse: Sales, Customers & Performance Analytics Dashboard
 
 An interactive Power BI dashboard designed to analyze e-commerce sales performance, customer behavior, and product trends—enabling data-driven business decisions across marketing, operations, and revenue strategy.
 
-2. Short Description / Purpose
-
+Description
 The E-commerce Analytics Dashboard is a comprehensive and visually intuitive Power BI report built to monitor and evaluate key business metrics such as sales, revenue, orders, customers, and product performance. It helps stakeholders gain actionable insights into business growth, customer purchasing patterns, and overall operational efficiency.
 
-3. Tech Stack
-
+Tech Stack
 The dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop – Primary platform for building interactive dashboards and visual reports
@@ -24,7 +20,7 @@ The dashboard was built using the following tools and technologies:
 
 📁 File Format – .pbit (Power BI Template) for reusable and scalable dashboard deployment
 
-4. Data Source
+Data Source
 
 Source: E-commerce transactional dataset (structured business data)
 
@@ -42,7 +38,7 @@ Revenue, quantity sold, and profit-related metrics
 
 The data is structured into multiple tables to support efficient analysis and business intelligence reporting.
 
-5. Features / Highlights
+ Highlights
 • Business Problem
 
 E-commerce businesses generate large volumes of transactional data daily, but raw data alone does not provide clear insights.
@@ -132,6 +128,6 @@ Strategic Decision-Making: Enables leadership to make informed decisions using r
 
 Scalability: The template-based design allows reuse with new datasets easily
 
-6. Screenshots / Demos
+Screenshots / Demos
 
 📸 Dashboard preview screenshot-![Dashboard Preview](https://github.com/Madiha546/Ecommerce-dashboard/blob/main/Snapshot%20of%20ecommerce%20dashboard.png)
