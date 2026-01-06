@@ -39,6 +39,7 @@ Revenue, quantity sold, and profit-related metrics
 The data is structured into multiple tables to support efficient analysis and business intelligence reporting.
 
  Highlights
+ 
 • Business Problem
 
 E-commerce businesses generate large volumes of transactional data daily, but raw data alone does not provide clear insights.
